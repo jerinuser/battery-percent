@@ -145,3 +145,4 @@ user_recordings.json
 
 .env.hari
 .env.dev
+terraform/terraform.tfvars
